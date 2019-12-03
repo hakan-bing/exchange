@@ -1,2 +1,2 @@
-# exchange
-Foreign Exchange Rates API
+# Foreign Exchange Rates API
+
